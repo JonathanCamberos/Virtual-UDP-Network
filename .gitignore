@@ -1,0 +1,6 @@
+*.o
+ru.tab.*
+*.output
+rt
+lex.ru.c
+.vscode/*
